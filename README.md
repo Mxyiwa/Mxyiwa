@@ -6,9 +6,6 @@
   
 <h2> Software Development Projects:</h2>
 
-- [Portfolio Website: Website create with Next.js for highlighting my projects](https://muyiwafadare.vercel.app/)
-
-
 - [Portfolio Website](https://muyiwafadare.vercel.app/)
 - [Expense Tracker](https://expense-tracker-calculator.netlify.app/)
 
