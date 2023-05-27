@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Mxyiwa/SIEM-AzureSentinelLab)
-- [Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM] (https://github.com/Mxyiwa/Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM)
+- [Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM](https://github.com/Mxyiwa/Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM)
   
 <h2> Software Development Projects:</h2>
 
