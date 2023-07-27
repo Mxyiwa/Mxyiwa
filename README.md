@@ -13,6 +13,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/87a090ad-ce91-4636-8dcb-bcce43b3e422/linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/092ae4fd-ef2f-483d-a494-07fcdfb3b639/public_url)
 
 
 
