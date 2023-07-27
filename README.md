@@ -4,7 +4,11 @@
 
 - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Mxyiwa/SIEM-AzureSentinelLab)
 - [Nessus Essentials Vulnerability Management of a Windows 11 VM](https://github.com/Mxyiwa/Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM)
-  
+
+<h2>👨‍💻 Cloud Engineering Projects:</h2>
+
+- [AWS_Serverless_Web_Application](https://github.com/Mxyiwa/AWS-Serverless-Web-Application)
+
 <h2> Software Development Projects:</h2>
 
 - [Portfolio Website](https://muyiwafadare.vercel.app/)
