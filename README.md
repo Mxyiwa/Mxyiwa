@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-- [AWS_Serverless_Web_Application](https://github.com/Mxyiwa/AWS-Serverless-Web-Application)
+- [AWS Serverless Web Application](https://github.com/Mxyiwa/AWS-Serverless-Web-Application)
 
 <h2> Software Development Projects:</h2>
 
