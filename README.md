@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Azure Sentinel SIEM Lab to Map Live Cyber Attacks](https://github.com/Mxyiwa/SIEM-AzureSentinelLab)
-- [Nessus Essentials Vulnerability Management of a Windows 11 VM](https://github.com/Mxyiwa/Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM)
+- [Vulnerability Management Lab with Nessus Essentials](https://github.com/Mxyiwa/Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM)
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
