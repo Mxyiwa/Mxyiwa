@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Mxyiwa/SIEM-AzureSentinelLab)
+- [Azure Sentinel SIEM Lab to Map Live Cyber Attacks](https://github.com/Mxyiwa/SIEM-AzureSentinelLab)
 - [Nessus Essentials Vulnerability Management of a Windows 11 VM](https://github.com/Mxyiwa/Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM)
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
+- [Exploiting AWS 1 — A Beginner’s Guide {FLAWS Challenge}](https://github.com/Mxyiwa/Exploiting-AWS-1-Flaws.cloud)
 - [AWS Serverless Web Application](https://github.com/Mxyiwa/AWS-Serverless-Web-Application)
 
 <h2> Software Development Projects:</h2>
@@ -18,6 +19,7 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/87a090ad-ce91-4636-8dcb-bcce43b3e422/linked_in_profile)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/092ae4fd-ef2f-483d-a494-07fcdfb3b639/public_url)
+- [Oracle Certified Foundations Associate]
 
 
 
