@@ -20,6 +20,8 @@
 - [CompTIA Security+](https://www.credly.com/badges/87a090ad-ce91-4636-8dcb-bcce43b3e422/linked_in_profile)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/092ae4fd-ef2f-483d-a494-07fcdfb3b639/public_url)
 - Oracle Certified Foundations Associate
+- [Splunk Core Certified Power User](https://www.credly.com/badges/252e08eb-e277-461a-a99c-eec75f1df862/public_url)
+- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-gb/users/oluwamuyiwafadare-7151/credentials/4c23cfc52c3c0b4b)
 
 
 
