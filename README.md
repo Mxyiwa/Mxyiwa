@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Sentinel SIEM Lab to Map Live Cyber Attacks](https://github.com/Mxyiwa/SIEM-AzureSentinelLab)
+-  [EscapeRoom-Blue-Team-Challenge-Analyzing-PCAPs-with-Wireshark](https://github.com/Mxyiwa/EscapeRoom-Blue-Team-Challenge-Analyzing-PCAPs-with-Wireshark)
+-  [Azure Sentinel SIEM Lab to Map Live Cyber Attacks](https://github.com/Mxyiwa/SIEM-AzureSentinelLab)
 - [Vulnerability Management Lab with Nessus Essentials](https://github.com/Mxyiwa/Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM)
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
